@@ -1,9 +1,10 @@
 ### Hi there
 
 - 👋 I’m @RishiSetpal
-- 👀 I’m interested in Clean Code, Mobile Development, UI.
-- 🌱 I’m currently learning Android Development, React Native, iOS Development.
+- 👀 I’m interested in Mobile Development, UI
+- 🌱 I’m currently learning Android & iOS Development with React Native
 - 💞️ I’m looking to collaborate on UI Related Tasks
+- 💖 Loves to write Optimal, Enhanced & Clean Code
 - 📫 How to reach me rishisetpal123@gmail.com
 
 <!--
