@@ -7,11 +7,16 @@
 - 💖 Loves to write Optimal, Enhanced & Clean Code
 - 📫 How to reach me rishisetpal123@gmail.com
 
+Live Web Applications:
+Calculator:  https://the-basic-calculator.netlify.app/
+Clock: https://the-clock-application.netlify.app/
+Enquiry: https://app.netlify.com/sites/enquery
+
 <!--
 **RishiSetpal/RishiSetpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Mobile Developement (react native)
+- 🌱 I’m currently learning Mobile development (react native)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -27,4 +32,5 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on UI Related Tasks
 - 📫 How to reach me rishisetpal1234@gmail.com
 -->
+
 
