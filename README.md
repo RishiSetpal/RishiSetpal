@@ -8,8 +8,11 @@
 - 📫 How to reach me rishisetpal123@gmail.com
 
 Live Web Applications:
+
 Calculator:  https://the-basic-calculator.netlify.app/
+
 Clock: https://the-clock-application.netlify.app/
+
 Enquiry: https://app.netlify.com/sites/enquery
 
 <!--
