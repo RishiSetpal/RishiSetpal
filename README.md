@@ -10,17 +10,17 @@
 Live Web Applications:
 
 [Calculator](https://the-basic-calculator.netlify.app/)
-- [Github](https://github.com/RishiSetpal/Calculator)
-- [Deployed On](https://app.netlify.com/sites/the-basic-calculator/overview)
+- CodeBase: [Github](https://github.com/RishiSetpal/Calculator)
+- Deployed On: [Netlify](https://app.netlify.com/sites/the-basic-calculator/overview)
 
 [Clock](https://the-clock-application.netlify.app/)
-- [Github](https://github.com/RishiSetpal/Clock)
-- [Deployed On](https://app.netlify.com/sites/the-clock-application/overview)
+- CodeBase: [Github](https://github.com/RishiSetpal/Clock)
+- Deployed On: [Netlify](https://app.netlify.com/sites/the-clock-application/overview)
 
 [Enquiry](https://enquery.netlify.app/)
 - Deployment:
-  - [Frontend](https://app.netlify.com/sites/enquery): [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Frontend)
-  - [Backend](https://vercel.com/rishisetpals-projects/js-enquery-application-backend-ruwk) [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Backend)
+  - CodeBase: [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Frontend) | Frontend Deployed On: [Netlify](https://app.netlify.com/sites/enquery)
+  - CodeBase: [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Backend) | Backend Deployed On: [Vercel](https://vercel.com/rishisetpals-projects/js-enquery-application-backend-ruwk)
 
 
 Non-Live: SpringBoot Java-based Backend: 
