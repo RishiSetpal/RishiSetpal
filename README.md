@@ -1,11 +1,12 @@
 ### Hi there
 
 - 👋 I’m @RishiSetpal
-- 👀 I’m interested in Mobile Development, UI
-- 🌱 I’m currently learning Android & iOS Development with React Native
-- 💞️ I’m looking to collaborate on UI Related Tasks
-- 💖 Loves to write Optimal, Enhanced & Clean Code
+- 👀 I’m interested in **Mobile Development**, **UI/UX Design**, **Frontend** (React, React Native, Angular), and **Backend** (Spring Boot, Java, Express)
+- 🌱 I’m currently learning **Android & iOS Development with React Native**, and improving my skills in **Full Stack Development** (React, Spring Boot, Java)
+- 💞️ I’m looking to collaborate on **UI/UX Design**, **Cross-Platform Mobile Apps**, and **Web Development** projects
+- 💖 Passionate about writing **optimal**, **clean**, and **scalable** code
 - 📫 How to reach me rishisetpal123@gmail.com
+
 
 Live Web Applications:
 
