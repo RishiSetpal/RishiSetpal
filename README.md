@@ -1,6 +1,6 @@
 ## Hello there
 
-- 👋 I’m @RishiSetpal
+- 👋 I’m **[RishiSetpal](https://github.com/RishiSetpal)**
 - 👀 I’m interested in **Mobile Development**, **UI/UX Design**, **Frontend** (React, React Native, Angular), and **Backend** (Spring Boot, Java, Express)
 - 🌱 I’m currently learning **Android & iOS Development with React Native**, and improving my skills in **Full Stack Development** (React, Spring Boot, Java)
 - 💞️ I’m looking to collaborate on **UI/UX Design**, **Cross-Platform Mobile Apps**, and **Web Development** projects
