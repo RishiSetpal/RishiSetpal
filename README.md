@@ -9,11 +9,19 @@
 
 Live Web Applications:
 
-Calculator:  https://the-basic-calculator.netlify.app/
+[Calculator](https://the-basic-calculator.netlify.app/)
+- [Github](https://github.com/RishiSetpal/Calculator)
+- [Deployed On](https://app.netlify.com/sites/the-basic-calculator/overview)
 
-Clock: https://the-clock-application.netlify.app/
+[Clock](https://the-clock-application.netlify.app/)
+- [Github](https://github.com/RishiSetpal/Clock)
+- [Deployed On](https://app.netlify.com/sites/the-clock-application/overview)
 
-Enquiry: https://app.netlify.com/sites/enquery
+[Enquiry](https://enquery.netlify.app/)
+- Deployment:
+  - [Frontend](https://app.netlify.com/sites/enquery): [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Frontend)
+  - [Backend](https://vercel.com/rishisetpals-projects/js-enquery-application-backend-ruwk) [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Backend)
+
 
 Non-Live: SpringBoot Java-based Backend: [Blogifi](https://github.com/RishiSetpal/Blogifi/tree/Part10)
 
