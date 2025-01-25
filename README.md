@@ -1,4 +1,4 @@
-### Hi there
+## Hello there
 
 - 👋 I’m @RishiSetpal
 - 👀 I’m interested in **Mobile Development**, **UI/UX Design**, **Frontend** (React, React Native, Angular), and **Backend** (Spring Boot, Java, Express)
@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on **UI/UX Design**, **Cross-Platform Mobile Apps**, and **Web Development** projects
 - 💖 Passionate about writing **optimal**, **clean**, and **scalable** code
 - 📫 How to reach me rishisetpal123@gmail.com
+---
 
-
-Live Web Applications:
+### Live Web Applications:
 
 [Calculator](https://the-basic-calculator.netlify.app/)
   - CodeBase: [Github](https://github.com/RishiSetpal/Calculator)
@@ -23,10 +23,16 @@ Live Web Applications:
   - CodeBase: [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Backend) | Backend Deployed On: [Vercel](https://vercel.com/rishisetpals-projects/js-enquery-application-backend-ruwk)
 
 
-Non-Live: SpringBoot Java-based Backend: 
+---
+### Non-Live: SpringBoot Java-based Backend: 
 
 Blogifi 
 - CodeBase: [Github](https://github.com/RishiSetpal/Blogifi/tree/Part10)
+
+---
+### Hardware IOT (Internet of Things)
+
+[Smart Door Locking System using Arduino](https://www.tinkercad.com/things/jfRw93i780W-smart-door-locking-system-using-arduino)
 
 <!--
 **RishiSetpal/RishiSetpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
