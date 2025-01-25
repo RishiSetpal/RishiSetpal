@@ -10,22 +10,22 @@
 Live Web Applications:
 
 [Calculator](https://the-basic-calculator.netlify.app/)
-- CodeBase: [Github](https://github.com/RishiSetpal/Calculator)
-- Deployed On: [Netlify](https://app.netlify.com/sites/the-basic-calculator/overview)
+  - CodeBase: [Github](https://github.com/RishiSetpal/Calculator)
+  - Deployed On: [Netlify](https://app.netlify.com/sites/the-basic-calculator/overview)
 
 [Clock](https://the-clock-application.netlify.app/)
-- CodeBase: [Github](https://github.com/RishiSetpal/Clock)
-- Deployed On: [Netlify](https://app.netlify.com/sites/the-clock-application/overview)
+  - CodeBase: [Github](https://github.com/RishiSetpal/Clock)
+  - Deployed On: [Netlify](https://app.netlify.com/sites/the-clock-application/overview)
 
 [Enquiry](https://enquery.netlify.app/)
-- Deployment:
   - CodeBase: [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Frontend) | Frontend Deployed On: [Netlify](https://app.netlify.com/sites/enquery)
   - CodeBase: [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Backend) | Backend Deployed On: [Vercel](https://vercel.com/rishisetpals-projects/js-enquery-application-backend-ruwk)
 
 
 Non-Live: SpringBoot Java-based Backend: 
 
-Blogifi [Github](https://github.com/RishiSetpal/Blogifi/tree/Part10)
+Blogifi 
+- CodeBase: [Github](https://github.com/RishiSetpal/Blogifi/tree/Part10)
 
 <!--
 **RishiSetpal/RishiSetpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
