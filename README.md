@@ -23,7 +23,9 @@ Live Web Applications:
   - [Backend](https://vercel.com/rishisetpals-projects/js-enquery-application-backend-ruwk) [Github](https://github.com/RishiSetpal/JS_EnqueryApplication_Backend)
 
 
-Non-Live: SpringBoot Java-based Backend: [Blogifi](https://github.com/RishiSetpal/Blogifi/tree/Part10)
+Non-Live: SpringBoot Java-based Backend: 
+
+Blogifi [Github](https://github.com/RishiSetpal/Blogifi/tree/Part10)
 
 <!--
 **RishiSetpal/RishiSetpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
