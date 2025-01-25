@@ -71,6 +71,7 @@ Blogifi
 ---
 #### Hardware IOT (Internet of Things)
 [Smart Door Locking System using Arduino](https://www.tinkercad.com/things/jfRw93i780W-smart-door-locking-system-using-arduino)
+- [Smart Door Locking IOE Mini-Project PPT & Report](https://drive.google.com/file/d/1lNAy4voyau4WV7o5mTGGg42A0Dy9F7ML/view?usp=sharing)
 
 ---
 #### Machine Learning Python
